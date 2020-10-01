@@ -1,0 +1,5 @@
+﻿  BST.cpp
+  CSE2383_prog_3.cpp
+  Generating Code...
+C:\Users\alexr\source\repos\CSE2383_prog_3\BST.cpp(66): warning C4715: 'BST::find': not all control paths return a value
+  CSE2383_prog_3.vcxproj -> C:\Users\alexr\source\repos\CSE2383_prog_3\Debug\CSE2383_prog_3.exe

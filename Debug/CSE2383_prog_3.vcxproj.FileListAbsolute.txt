@@ -1,0 +1,2 @@
+C:\Users\alexr\source\repos\CSE2383_prog_3\Debug\CSE2383_prog_3.exe
+C:\Users\alexr\source\repos\CSE2383_prog_3\Debug\CSE2383_prog_3.pdb
